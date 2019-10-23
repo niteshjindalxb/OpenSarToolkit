@@ -18,7 +18,6 @@ setup(name='ost',
                         'descartes',
                         'pandas',
                         'geopandas',
-                        'gdal',
                         'scipy',
                         'imageio'
                         ],
