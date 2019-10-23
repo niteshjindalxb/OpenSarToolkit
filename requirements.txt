@@ -1,6 +1,6 @@
 descartes
 fiona
-gdal
+pygdal==2.2.3.3
 geopandas
 matplotlib
 numpy
